@@ -1,0 +1,32 @@
+.logo-zay{
+    font-size: 50px;
+    opacity: 0.8;
+}
+#template-mo-zay-hero-carousel{
+    background-color: rgba(202, 192, 187, 0.288);
+}
+#tempaltemo_footer ul.footer-link-list li{
+    padding-top: 15px;
+}
+#tempaltemo_footer ul.footer-link-list li a{
+    color: aliceblue;
+    font-size: 18px !important;
+    font-weight: 300 !important;
+
+}
+#tempaltemo_footer ul.footer-link-list li a:hover{
+   color: rgb(26, 169, 26);
+
+}
+
+.li-s:hover{
+    border: 1px solid rgb(255, 255, 255);
+    
+    border-radius: 50%;
+}
+
+.card-card:hover{
+  background-color: rgb(120, 208, 120);
+  transition:all .3s;
+  color: aliceblue;
+}
